@@ -1,0 +1,42 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: maroon;
+}
+
+.tabletags {
+  text-align: center;
+  color: darkred;
+}
+
+table {
+  border: 2px solid maroon;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color:crimson
+}
+
+td {
+  border-bottom: 2px solid black;
+  padding: 3px;
+}
+
+.code {
+  text-align: center;
+  font-family: monospace;
+  background-color: beige;
+}
+
+.tdname {
+  text-align: center;
+}
